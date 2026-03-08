@@ -1,3 +1,3 @@
 # SWE-UH Technical Branch
 
-SWE-UH Technical Branch: Technical Workshops and Engineering Student Projects (est. 2024)
+Created SWE-UH Technical Branch (est. 2024): Technical Workshops and Engineering Projects for Students
